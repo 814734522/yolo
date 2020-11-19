@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Yolo_test2.cpp
+c:\users\administrator\documents\visual studio 2017\projects\yolo_test2\yolo_test2\yolo_test2.cpp(15): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\documents\visual studio 2017\projects\yolo_test2\yolo_test2\yolo_test2.cpp(217): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\documents\visual studio 2017\projects\yolo_test2\yolo_test2\yolo_test2.cpp(218): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Yolo_test2.vcxproj -> c:\users\administrator\documents\visual studio 2017\Projects\Yolo_test2\x64\Debug\Yolo_test2.exe
+  Yolo_test2.vcxproj -> c:\users\administrator\documents\visual studio 2017\Projects\Yolo_test2\x64\Debug\Yolo_test2.pdb (Partial PDB)
